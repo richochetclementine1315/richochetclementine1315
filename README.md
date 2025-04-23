@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Mrinmoy. Currently in my Sophmore years of my CS engineering. Highly interested in Backend technologies,DevOps & System Design.
+I am Mrinmoy. Currently in my Sophmore years of my CS engineering. Interested specifically in Backend technologies,DevOps & System Design.
 
 
 ## 🌐 Socials:
