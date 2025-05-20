@@ -13,9 +13,36 @@ I am Mrinmoy. Currently in my Sophmore years of my CS engineering. Interested sp
 ![](https://nirzak-streak-stats.vercel.app/?user=richochetclementine1315&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=richochetclementine1315&theme=blueberry&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=richochetclementine1315&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 Featured Projects
 
+### 1. <a href="https://github.com/richochetclementine1315/.Malicious-File-and-URL-detection-app">Malicious File and URL Detection App</a>
+> Analysing Files and URLs for malicious content and classifying URLs into different categories  
+> <b>Tech:</b> Python  
+> <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
+
+---
+
+### 2. <a href="https://github.com/richochetclementine1315/Securing-Web-Application">Securing Web Application</a>
+> Securing a web application using Spring Security  
+> <b>Tech:</b> Java, Spring  
+> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white"/>
+> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white"/>
+
+---
+
+### 3. <a href="https://github.com/richochetclementine1315/Basic-web-server">Basic Web Server</a>
+> A basic web server made with Golang  
+> <b>Tech:</b> Go  
+> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+
+---
+
+### 4. <a href="https://github.com/richochetclementine1315/CLI-todoApp">CLI Todo App</a>
+> A simple CLI-based todo application  
+> <b>Tech:</b> Go  
+> <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
+
+---
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=richochetclementine1315&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
 
