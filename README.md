@@ -49,7 +49,7 @@ I am Mrinmoy. Currently in my Sophmore years of my CS engineering. Interested sp
 ---
 [![](https://visitcount.itsvg.in/api?id=richochetclementine1315&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->- 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
 richochetclementine1315/richochetclementine1315 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
