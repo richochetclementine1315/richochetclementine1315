@@ -43,10 +43,6 @@ I am Mrinmoy. Currently in my Sophmore years of my CS engineering. Interested sp
 > <img src="https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white"/>
 
 ---
-
-### HACKTOBER FEST
-> [![An image of @richochetclementine1315's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/richochetclementine1315)](https://holopin.io/@richochetclementine1315)
- ---
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=richochetclementine1315&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
 
