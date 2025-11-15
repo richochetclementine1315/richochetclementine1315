@@ -93,7 +93,10 @@
 
 ###
 
-[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=mrinmoymatilal1315&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/mrinmoymatilal1315)
+<a href="https://codeforces.com/profile/mrinmoymatilal1315">
+   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mrinmoymatilal1315&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" />
+  
+</a>
 
 ###
 
