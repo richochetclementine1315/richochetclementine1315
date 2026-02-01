@@ -4,10 +4,6 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=header&reversal=true&text=Hi%F0%9F%91%8B%20I%20am%20Mrinmoy%20Matilal&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-<div align="center">
-  <img height="193" src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png"  />
-</div>
-
 ###
 
 <h1 align="center">I Work With:</h1>
