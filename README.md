@@ -1,6 +1,10 @@
 <br clear="both">
 
 <div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=header&reversal=true&text=Hi%F0%9F%91%8B%20I%20am%20Mrinmoy%20Matilal&fontSize=40&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&rotate=0&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+<div align="center">
   <img height="193" src="https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png"  />
 </div>
 
@@ -14,7 +18,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
@@ -32,7 +36,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
@@ -50,7 +54,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
@@ -72,7 +76,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/mongodb/47A248" height="40" alt="mongodb logo"  />
@@ -85,7 +89,14 @@
 ###
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=richochetclementine1315&theme=dark&hide_border=false)<br/>
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=richochetclementine1315&theme=dark&hide_border=false"  />
+  </div>
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=richochetclementine1315&radius=16&theme=github-light&area=true&order=5&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
+</div>
 
 ### 🔝 Top Contributed Repo
 
@@ -102,23 +113,10 @@
 
 ###
 
-<h3 align="left">Connect With Me:</h3>
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/mrinmoy-matilal" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/ricochet_1315" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="mrinmoymatilal1315@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
+<div align="center">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&reversal=true&text=Let's%20Build%20something%20together%F0%9F%9A%80&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=60&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
-
-###
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
