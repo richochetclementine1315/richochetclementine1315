@@ -86,8 +86,12 @@
 
 # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=richochetclementine1315&theme=dark&hide_border=false"  />
-  </div>
+
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=richochetclementine1315&theme=dark&hide_border=false)
+
+</div>
+
+<br></br>
 
 
 <div align="center">
