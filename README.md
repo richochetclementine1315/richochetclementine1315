@@ -100,7 +100,8 @@
 
 ### 🔝 Top Contributed Repo
 
-<img width="1300" height="1062" alt="image" src="https://github.com/user-attachments/assets/4ac1345f-02e4-4851-a143-4df29b3a761e" />
+<img width="2560" height="1062" alt="image" src="https://github.com/user-attachments/assets/8a3aa587-009a-4cd3-a8bc-a0437ecdef5b" />
+
 
 
 ###
