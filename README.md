@@ -85,35 +85,22 @@
 ###
 
 # 📊 GitHub Stats:
-<div align="center">
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=richochetclementine1315&theme=dark&hide_border=false)
-
-</div>
 
 <br></br>
 
-
 <div align="center">
+  
+![](https://github-readme-stats.shion.dev/api?username=richochetclementine1315&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=richochetclementine1315&theme=dark&hide_border=false)<br/>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=richochetclementine1315&radius=16&theme=github-light&area=true&order=5&hide_border=false&hide_title=true" height="300" alt="activity-graph graph"  />
+
+  ![](https://github-readme-stats.shion.dev/api/top-langs/?username=richochetclementine1315&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+ 
 </div>
 
-### 🔝 Top Contributed Repo
-
-<img width="2560" height="1062" alt="image" src="https://github.com/user-attachments/assets/8a3aa587-009a-4cd3-a8bc-a0437ecdef5b" />
-
-
-
 ###
-<div align="center">
-  <a href="https://codeforces.com/profile/mrinmoymatilal1315">
-   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=mrinmoymatilal1315&theme=github_dark&disable_animations=false&show_icons=true&force_username=true" />
-  
-  </a>
-</div>  
-
-###
-
 
 <div align="center">
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&reversal=true&text=Let's%20Build%20something%20together%F0%9F%9A%80&fontSize=20&fontColor=FFFFFF&fontAlign=50&fontAlignY=60&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
