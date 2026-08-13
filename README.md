@@ -62,3 +62,12 @@
     <img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Discord/discord2.svg" alt="Discord">
   </a>
 </p>
+<p align= center>
+<a href="https://lfx.linuxfoundation.org/">
+  <img
+    src="https://github.com/user-attachments/assets/b47ce0e2-9ff3-4e29-8ec5-18e514087b54"
+    width="180"
+    alt="LFX Inclusive Open Source Community Orientation"
+  />
+</a>
+</p>
