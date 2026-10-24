@@ -1,11 +1,12 @@
 <div align="center">
 <img src="https://readmeme.eu.cc/api/marker.svg?markerStyle=card&markerColor=cyan&avatar=https%3A%2F%2Fgithub.com%2Frichochetclementine1315.png&name=MRINMOY+MATILAL&bio=I+love+building+%3Cmark+color%3D%22orange%22%3Ecool+projects%3C%2Fmark%3E+and+writing+%3Cmark+color%3D%22cyan%22%3Eclean+code%3C%2Fmark%3E.&skills=GO%2CDOCKER%2CCPP%2CGITHUB%2CGIT%2CPYTHON&handle=richochetclementine1315&label=Ocean+View" alt="Marker Board" />
 </br>
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=richochetclementine1315&radius=16&theme=green&area=true&hide_border=false&hide_title=true" height="280" width="600" alt="activity-graph graph" />
-</br>
 
-   <img src="https://readmeme.eu.cc/api/flag.svg?country=IN&theme=forest&label=From" width="300" alt="Country Flag" />
+## Stats:
+![](https://github-readme-stats.shion.dev/api?username=richochetclementine1315&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true)
+![](https://streak-stats.demolab.com/?user=richochetclementine1315&theme=shadow_green&hide_border=true)<br/>
+
+</br>
 
 </div>
 
