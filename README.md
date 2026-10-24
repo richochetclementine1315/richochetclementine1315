@@ -4,12 +4,11 @@
 
 ## Stats:
 ![](https://github-readme-stats.shion.dev/api?username=richochetclementine1315&theme=shadow_green&hide_border=true&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=richochetclementine1315&theme=shadow_green&hide_border=true)<br/>
+![](https://streak-stats.demolab.com/?user=richochetclementine1315&theme=shadow_green&hide_border=true)
 
 </br>
 
 </div>
-
 
 <h2 align="center">Technologies I work with:</h2>
 
